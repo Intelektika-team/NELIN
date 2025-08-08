@@ -1,4 +1,4 @@
-import main as n
+import nelin.main as n
 import numpy as np
 
 class nelin_fortest:

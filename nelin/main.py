@@ -1,5 +1,5 @@
 import numpy as np
-from functs import *
+from nelin.functs import *
 import random as r
 # cupy ->
 try:
